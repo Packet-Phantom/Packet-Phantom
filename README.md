@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity and System Adminitration Projects:</h2>
 
   - [Enterprise Active Directory Deployment and Administration]()
-  - [Cloud-Based SIEM, Web Application Firewall, and Honeypot]()
+  - [Cloud-Based SIEM, Web Application Firewall, and Honeypot Configuration]()
   - [Digital Forensics Investigation]()
   - [MySQL:Database Creating, Population, and Advanced Querying]()
 <h2>🏅 Certifications </h2>
