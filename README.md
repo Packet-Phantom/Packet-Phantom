@@ -5,7 +5,7 @@
   - [Enterprise Active Directory Deployment and Administration]()
   - [Cloud-Based SIEM, Web Application Firewall, and Honeypot Configuration]()
   - [Digital Forensics Investigation]()
-  - [MySQL:Database Creating, Population, and Advanced Querying]()
+  - [MySQL:Database Creation, Population, and Advanced Querying]()
 <h2>🏅 Certifications </h2>
 
   - [CompTIA CySA+, Pentest+, Security+, Network+, A+]() 
