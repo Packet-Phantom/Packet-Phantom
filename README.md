@@ -4,7 +4,7 @@
 
   - [Enterprise Active Directory Deployment and Administration](https://github.com/Packet-Phantom/LAB-Enterprise-Active-Directory-Deployment-and-Administration)
   - [Cloud-Based SIEM, Web Application Firewall, and Honeypot Configuration](https://github.com/Packet-Phantom/LAB-Cloud-Based-SIEM-Web-Application-Firewall-and-Honeypot-Configuration)
-  - [Digital Forensics Investigation]()
+  - [Digital Forensics Investigation](https://github.com/Packet-Phantom/Digital-Forensics-Investigation/blob/main/README.md)
   - [MySQL:Database Creation, Population, and Advanced Querying]()
 <h2>🏅 Certifications </h2>
 
