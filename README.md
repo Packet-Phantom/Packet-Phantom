@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Ethan! <br/><a href="https://github.com/Packet-Phantom">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Graduate</a>
 
-<!--
-**Packet-Phantom/Packet-Phantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity and System Adminitration Projects:</h2>
 
-Here are some ideas to get you started:
+  - [Enterprise Active Directory Deployment and Administration Project]()
+  - [Cloud-Based SIEM, Web Application Firewall, and Honeypot Project]()
+  - [Digital Forensic Project]()
+  - [MySQL:Database Creating, Population, and Advanced Querying]()
+<h2>🏅 Certifications </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [CompTIA CySA+, Pentest+, Security+, Network+, A+]() 
+  - [LPI Linux Essentials]()
+  - [ITIL4 Foundation]()
+  - [HTB CSDA (Expected 7/23/2026)]()
+<h2>🤳 Connect with me:</h2>
+
+[linkedin]: https://www.linkedin.com/in/ethan-dirks-072b5228a/
+[Email]: ethan.dirks@proton.me
