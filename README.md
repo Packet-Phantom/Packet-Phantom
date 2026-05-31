@@ -8,7 +8,7 @@
   - [MySQL: Database Creation, Population, and Advanced Querying](https://github.com/Packet-Phantom/LAB-MySQL-Database-Creation-Population-and-Advanced-Querying)
 <h2>🏅 Certifications </h2>
 
-  - [CompTIA CySA+, Pentest+, Security+, Network+, A+](<img width="1900" height="815" alt="Screenshot 2026-05-31 102856" src="https://github.com/user-attachments/assets/52e4deb9-843d-4bb1-8185-19a29b366ad1" />) 
+  - [CompTIA CySA+, Pentest+, Security+, Network+, A+]() 
   - [LPI Linux Essentials]()
   - [ITIL4 Foundation]()
   - [HTB CSDA (Expected 7/23/2026)]()
