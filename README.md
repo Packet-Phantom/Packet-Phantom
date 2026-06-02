@@ -8,11 +8,11 @@
   - [MySQL: Database Creation, Population, and Advanced Querying](https://github.com/Packet-Phantom/LAB-MySQL-Database-Creation-Population-and-Advanced-Querying)
 <h2>🏅 Certifications </h2>
 
-  - [CompTIA CySA+, Pentest+, Security+, Network+, A+]() 
-  - [LPI Linux Essentials]()
-  - [ITIL4 Foundation]()
-  - [HTB CSDA (Expected 7/23/2026)]()
+  - [CompTIA CySA+, Pentest+, Security+, Network+, A+](https://www.linkedin.com/in/ethan-dirks-072b5228a/details/certifications/) 
+  - [LPI Linux Essentials](https://www.linkedin.com/in/ethan-dirks-072b5228a/details/certifications/)
+  - [ITIL4 Foundation](https://www.linkedin.com/in/ethan-dirks-072b5228a/details/certifications/)
+  - [HTB CSDA (Expected 7/23/2026)](https://www.linkedin.com/in/ethan-dirks-072b5228a/details/certifications/)
 <h2>🤳 Connect with me:</h2>
 
-  [linkedin]: https://www.linkedin.com/in/ethan-dirks-072b5228a/()
-  [Email]: ethan.dirks@proton.me()
+  [linkedin](https://www.linkedin.com/in/ethan-dirks-072b5228a/)
+  [Email](ethan.dirks@proton.me)
