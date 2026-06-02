@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ethan! <br/><a href="https://github.com/Packet-Phantom">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Graduate</a>
+<h1>Hi, I'm Ethan! <br/><a href="https://github.com/Packet-Phantom">Programmer</a>, <a href="https://www.linkedin.com/in/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity and System Adminitration Projects:</h2>
 
