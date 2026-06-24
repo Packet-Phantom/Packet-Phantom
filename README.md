@@ -6,6 +6,7 @@
   - [Cloud-Based SIEM, Web Application Firewall, and Honeypot Configuration (In Progress)](https://github.com/Packet-Phantom/LAB-Cloud-Based-SIEM-Web-Application-Firewall-and-Honeypot-Configuration)
   - [Digital Forensics Investigation](https://github.com/Packet-Phantom/Digital-Forensics-Investigation/blob/main/README.md)
   - [MySQL: Database Creation, Population, and Advanced Querying](https://github.com/Packet-Phantom/LAB-MySQL-Database-Creation-Population-and-Advanced-Querying)
+  - [Analying Event Logs with Sysmon (+ Creating a DLL Injection Attack)](https://github.com/Packet-Phantom/Analyzing-Malware-with-Sysmon-PLUS-Creating-DLL-Injection-Script-/tree/main)
 <h2>🏅 Certifications </h2>
 
   - [CompTIA CySA+, Pentest+, Security+, Network+, A+](https://www.linkedin.com/in/ethan-dirks-072b5228a/details/certifications/) 
