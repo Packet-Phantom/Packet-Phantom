@@ -17,4 +17,4 @@
 <h2>🤳 Connect with me:</h2>
 
   - [Linkedin: Ethan Dirks](https://www.linkedin.com/in/ethan-dirks-072b5228a/)
-  - Email: ethan.dirks@proton.me
+  - Email: ethan.dirks@pm.me
