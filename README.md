@@ -13,7 +13,7 @@
   - [CompTIA CySA+, Pentest+, Security+, Network+, A+](https://www.linkedin.com/in/ethan-dirks-072b5228a/details/certifications/) 
   - [LPI Linux Essentials](https://www.linkedin.com/in/ethan-dirks-072b5228a/details/certifications/)
   - [ITIL4 Foundation](https://www.linkedin.com/in/ethan-dirks-072b5228a/details/certifications/)
-  - [HTB CSDA (Expected 7/23/2026)](https://www.linkedin.com/in/ethan-dirks-072b5228a/details/certifications/)
+  - [HTB CSDA (Expected 8/23/2026)](https://www.linkedin.com/in/ethan-dirks-072b5228a/details/certifications/)
 <h2>🤳 Connect with me:</h2>
 
   - [Linkedin: Ethan Dirks](https://www.linkedin.com/in/ethan-dirks-072b5228a/)
